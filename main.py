@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import re, sys, subprocess, time
 
 SCREENS = ['dev:/dev/i2c-3', 'dev:/dev/i2c-4', 'dev:/dev/i2c-5']
